@@ -1,0 +1,50 @@
+body{
+  color: aqua;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+
+}
+
+.picture{
+  width: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.name{
+  text-align:center;
+  color:red;
+}
+
+#name{
+  color: blue;
+}
+
+h1{
+  color: green;
+}
+
+.rename{
+  text-align:center;
+  font-weight: 900;
+}
+.focus{
+  text-align:center;
+  color: aquamarine;
+}
+
+.box{
+  background: slateblue;
+  color: white;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  text-align: center;
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 5px 5px black;
+}
+
